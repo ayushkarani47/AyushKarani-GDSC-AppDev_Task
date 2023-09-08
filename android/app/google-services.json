@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526815295082",
+    "project_id": "emailpass-gdsc",
+    "storage_bucket": "emailpass-gdsc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526815295082:android:64d7ceb9e1057882b7fc13",
+        "android_client_info": {
+          "package_name": "com.example.gdsc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526815295082-i8op8lgkej1vm0f9o9od0fde2s8f322c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6MiqQy7_vYH_i5J7bWaS6T8nK3TSloDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526815295082-i8op8lgkej1vm0f9o9od0fde2s8f322c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
